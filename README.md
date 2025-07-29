@@ -4,12 +4,12 @@ A modern production-ready full-stack React application using React Router.
 
 ## Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
+-  Server-side rendering
+-  Hot Module Replacement (HMR)
+-  Asset bundling and optimization
+-  Data loading and mutations
+-  TypeScript by default
+-  TailwindCSS for styling
 
 ## Getting Started
 
