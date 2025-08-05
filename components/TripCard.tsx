@@ -1,8 +1,11 @@
 import React from 'react'
+import { Link } from 'react-router'
 
-const TripCard = () => {
+const TripCard = ({id, name, location, imageUrl, tags, price}: TripCardProps) => {
   return (
-    <div>TripCard</div>
+    <Link>
+      <img src={imageUrl} alt={name}/>
+    </Link>
   )
 }
 
